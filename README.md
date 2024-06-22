@@ -27,3 +27,13 @@
 
 ### Parameterised Tests
 - Create different test cases for all the inputs provided. 
+- Make sure to initalise packages to use them in other folders. 
+
+### Fixtures
+- Arrange and prepare data before running tests.
+- Reusable code! 
+- Fixture Scopes: function, class, module, package, session (when to destroy the fixture, free the memory when you no longer need it)
+
+# File Handling 
+- Read and write data from and to files respectively. 
+- Open, read or write, close the file. Very important to close the file. 
