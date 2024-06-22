@@ -37,3 +37,9 @@
 # File Handling 
 - Read and write data from and to files respectively. 
 - Open, read or write, close the file. Very important to close the file. 
+- 'with' statement: automatically closes a file when you're done with it.
+
+## Different File Types
+- CSV files
+- JSON files
+
