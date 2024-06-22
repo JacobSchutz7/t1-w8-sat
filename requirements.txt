@@ -1,0 +1,7 @@
+libraries that are required for your program to run. 
+
+Example: 
+requests
+pandas
+matplotlib
+
